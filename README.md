@@ -19,13 +19,17 @@ IPTV直播源地址：
 
 
 
-直播电视APP直播源地址（每日自动更新）：
+直播电视APP直播源地址（每日自动更新），原[Github](https://github.com/vbskycn/iptv)
 
-IPTV6源     [TXT](https://live.zbds.top/tv/iptv6.txt)  [备用](https://ghp.ci/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.txt)
+IPTV6源     
+
+[TXT](https://live.zbds.top/tv/iptv6.txt)  [备用](https://ghp.ci/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.txt)
 
 [M3U](https://live.zbds.top/tv/iptv6.m3u)  [备用](https://ghp.ci/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u)
 
-IPTV4源     [TXT](https://live.zbds.top/tv/iptv4.txt)  [备用](https://ghp.ci/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt)
+IPTV4源     
+
+[TXT](https://live.zbds.top/tv/iptv4.txt)  [备用](https://ghp.ci/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt)
 
 [M3U](https://live.zbds.top/tv/iptv4.m3u)  [备用](https://ghp.ci/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u)
 
