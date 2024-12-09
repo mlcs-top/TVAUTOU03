@@ -1,5 +1,7 @@
-//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
-//
+//	以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
+//	Github：https://github.com/lxd-520/TvBox123  
+//	订阅地址：https://ghp.ci/raw.githubusercontent.com/lxd-520/TvBox-/refs/heads/main/zy.txt
+
 
 {
 	"spider": "http://uk.frp.one:29999/1107lib/1107.jar",
