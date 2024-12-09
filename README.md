@@ -20,22 +20,14 @@ IPTV直播源地址：
 
 IPTV6源 
 
-[TXT](https://live.zbds.top/tv/iptv6.txt)  
+[TXT](https://live.zbds.top/tv/iptv6.txt)  [备用](https://ghp.ci/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.txt)
 
-[备用](https://ghp.ci/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.txt)
-
-[M3U](https://live.zbds.top/tv/iptv6.m3u)  
-
-[备用](https://ghp.ci/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u)
+[M3U](https://live.zbds.top/tv/iptv6.m3u)  [备用](https://ghp.ci/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u)
 
 IPTV4源 
 
-[TXT](https://live.zbds.top/tv/iptv4.txt)  
+[TXT](https://live.zbds.top/tv/iptv4.txt)  [备用](https://ghp.ci/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt)
 
-[备用](https://ghp.ci/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt)
-
-[M3U](https://live.zbds.top/tv/iptv4.m3u)  
-
-[备用](https://ghp.ci/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u)
+[M3U](https://live.zbds.top/tv/iptv4.m3u)  [备用](https://ghp.ci/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u)
 
        
