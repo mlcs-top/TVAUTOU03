@@ -7,7 +7,7 @@
 
 
 
-## 1、IPTV直播源地址： [转自Github](https://github.com/yuanzl77/IPTV) 、 [转自Github](https://github.com/suxuang/myIPTV)       
+## 1、IPTV直播源地址        [转自Github](https://github.com/yuanzl77/IPTV) 、 [转自Github](https://github.com/suxuang/myIPTV)       
 
 #### 国内M3U     [每三日更新](http://175.178.251.183:6689/live.m3u)  
 
@@ -20,7 +20,7 @@
 
 
 
-## 2、直播电视APP直播源地址（每日自动更新），原[Github](https://github.com/vbskycn/iptv)
+## 2、直播电视APP直播源地址（每日自动更新）       [转自Github](https://github.com/vbskycn/iptv)
 
 ### IPTV6源     
 
