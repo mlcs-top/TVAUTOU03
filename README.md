@@ -1,8 +1,8 @@
 # TvBox-接口
 
-Tvbox接口全部收集于网络
+### Tvbox接口全部收集于网络（🔕 永久免费 直连访问 完整开源 不含广告 直播源支持IPv4/IPv6双栈访问 🔕）
 
-Tvbox接口[订阅地址](https://ghp.ci/raw.githubusercontent.com/lxd-520/TvBox-/refs/heads/main/zy.txt)
+### Tvbox接口[订阅地址](https://ghp.ci/raw.githubusercontent.com/lxd-520/TvBox-/refs/heads/main/zy.txt)
 
 
 
