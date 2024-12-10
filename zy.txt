@@ -33,7 +33,7 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	    },
   	    	            {
-            "name": "Live2(EXO)",
+            "name": "①Live2(EXO)",
             "type": 0,
             "url": "https://live.zbds.top/tv/iptv6.txt",
             "playerType": 2,
@@ -42,7 +42,7 @@
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
         },
 		{
-	"name": "Live3(EXO)",
+	"name": "①Live3(EXO)",
             "type": 0,
             "url": "https://live.zbds.top/tv/iptv4.txt",
             "playerType": 2,
