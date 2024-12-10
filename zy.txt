@@ -9,28 +9,18 @@
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "logo": "http://php.540734621.xyz/logo/logo.php",
 
-
-
-
-
+//	IPTV源
 
 "lives": [
     {
     
-
 	"name": "tvlive",
 	"type": 0,
 	"url": "http://175.178.251.183:6689/live.txt",
 	"playerType": 1
 
-
     }
   ],
-
-
-
-
-
 
 
 
