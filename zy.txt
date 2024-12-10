@@ -3,7 +3,6 @@
 //	订阅地址：https://ghp.ci/raw.githubusercontent.com/lxd-520/TvBox123/refs/heads/main/zy.txt
 //	
 
-
 {
 	"spider": "http://uk.frp.one:29999/1107lib/1107.jar",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
@@ -24,7 +23,6 @@
 
 "sites":[
     {"key":"豆瓣","name":"🌻 豆瓣┃追剧","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
-
     {"key":"荐片","name":"🍦荐片┃P2P","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"http://uk.frp.one:29999/1107lib/drpy2.min.js","ext":"http://uk.frp.one:29999/1107lib/jp.js"},
     {"key":"荐片弹幕版","name":"⚔️荐片┃影视","type": 3,"api":"csp_Jianpian","searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext": {"danmu": true},"timeout":10},
 
