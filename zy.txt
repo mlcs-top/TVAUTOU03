@@ -16,26 +16,12 @@
 
 "lives": [
     {
-      "name": "tvlive1",
-      "type": 0,
-      "url": "http://175.178.251.183:6689/live.txt",
-      "playerType": 1
+    
 
-      "name": "tvlive2",
-      "type": 0,
-      "url": "https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
-      "playerType": 1
-
-      "name": "tvlive3",
-      "type": 0,
-      "url": "https://live.zbds.top/tv/iptv6.txt",
-      "playerType": 1
-
-     "name": "tvlive4",
-      "type": 0,
-      "url": "https://live.zbds.top/tv/iptv4.txt",
-      "playerType": 1
-
+	"name": "tvlive",
+	"type": 0,
+	"url": "http://175.178.251.183:6689/live.txt",
+	"playerType": 1
 
 
     }
