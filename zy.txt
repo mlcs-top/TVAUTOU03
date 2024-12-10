@@ -22,24 +22,36 @@
 //  ],
 
 
-	"lives": [{
+	"lives": [
+			{
 		    "name": "①live",
             "type":0,
- 	        "url": "http://uk.frp.one:29999/new/live.txt",
+ 	        "url": "http://175.178.251.183:6689/live.txt",
             "ua": "okhttp/3",
             "playerType": 1,
             "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	    },
   	    	            {
-            "name": "②Live(EXO)",
+            "name": "Live2",
             "type": 0,
-            "url": "http://kxrj.site:55/lib/kx2024.txt",
+            "url": "https://live.zbds.top/tv/iptv6.txt",
+            "playerType": 2,
+            "ua": "okhttp/3",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png"
+        },
+		{
+	"name": "Live3",
+            "type": 0,
+            "url": "https://live.zbds.top/tv/iptv4.txt",
             "playerType": 2,
             "ua": "okhttp/3",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
         }
+
+
   ],
 
 
