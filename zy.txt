@@ -19,9 +19,7 @@
 		"playerType": 1
 
 		 }
-		 ],
-
-
+		 	],
 
 
 "sites":[
