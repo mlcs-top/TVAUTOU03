@@ -14,7 +14,7 @@
     
 		"name": "tvlive",
 		"type": 0,
-		"url": "http://175.178.251.183:6689/live.txt",
+		"url": "https://live.zbds.top/tv/iptv4.txt",
 		"playerType": 1
 
 		 }
