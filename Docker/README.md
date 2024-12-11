@@ -25,7 +25,7 @@ docker run -d \
 |  直播源   | 接口  |
 |  ----  | ----  |
 | TPTV  | http://群晖IP:35455/tptv.m3u |
-| 聚合TV  | (http://群晖IP:35455/tv.m3u) |
+| 聚合TV  | http://群晖IP:35455/tv.m3u |
 | YY 轮播  | http://群晖IP:35455/yylunbo.m3u | 
 | 虎牙一起看  | http://群晖IP:35455/huyayqk.m3u |   
 | 斗鱼一起看  | http://群晖IP:35455/douyuyqk.m3u | 
