@@ -8,7 +8,7 @@ allinone 是斗鱼，虎牙，抖音等直播平台的直播源代理程序，�
   //例：docker镜像加速域名(docker.1ms.run/)
 
 
-#  //    Docker安装allinone
+#  //    Docker安装allinone采集直播源
 
 
 docker run -d \
