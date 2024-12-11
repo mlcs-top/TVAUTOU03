@@ -30,7 +30,7 @@
 
 
 
-##    Ftindy精选直播源[Github](https://github.com/Ftindy/IPTV-URL)
+###    3、Ftindy精选直播源[Github](https://github.com/Ftindy/IPTV-URL)
 
 ###    [虎牙一起看](https://ghp.ci/raw.githubusercontent.com/Ftindy/IPTV-URL/refs/heads/main/huyayqk.m3u)   [备用](https://live.freetv.top/huyayqk.m3u) 
 
