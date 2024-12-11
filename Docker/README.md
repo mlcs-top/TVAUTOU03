@@ -20,13 +20,18 @@ docker run -d \
    docker.1ms.run/youshandefeiyang/allinone
 
 
+##   内置接口如下：
 
-
-|  表头   | 表头  |
+|  直播源   | 接口  |
 |  ----  | ----  |
-| 单元格  | 单元格 |
-| 单元格  | 单元格 |
-   
+| TPTV  | http://群晖IP:35455/tptv.m3u |
+| 聚合TV  | (http://群晖IP:35455/tv.m3u) |
+| YY 轮播  | http://群晖IP:35455/yylunbo.m3u | 
+| 虎牙一起看  | http://群晖IP:35455/huyayqk.m3u |   
+| 斗鱼一起看  | http://群晖IP:35455/douyuyqk.m3u | 
+| BiliBili 生活  | http://群晖IP:35455/bililive.m3u |
+
+
 
 
 #  //	进阶1:配置 watchtower 每天早上五点自动监听allinone直播源更新
