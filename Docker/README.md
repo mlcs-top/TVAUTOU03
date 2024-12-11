@@ -1,3 +1,8 @@
+#    Docker搭建本地直播源项目备忘
+
+
+
+
 #    //  什么是 youshandefeiyang/allinone ?
 
 allinone 是斗鱼，虎牙，抖音等直播平台的直播源代理程序，可以直接观看多个流畅完美满血 4K 源。除了 Docker 外，还提供了主流平台的二进制文件，包括 exe 格式。
@@ -34,7 +39,7 @@ docker run -d \
 
 
 
-#  //	进阶1:配置 watchtower 每天早上五点自动监听allinone直播源更新
+#  //	进阶1：配置 watchtower 每天早上五点自动监听allinone直播源更新
 
   
 docker run -d \
