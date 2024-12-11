@@ -1,0 +1,162 @@
+//	原帖链接：https://blog.csdn.net/wbsu2004/article/details/143932034
+//	镜像加速：https://www.xuxlc.cn/article/details-40.html
+
+
+//	Docker直播源项目
+
+
+//	docker.1ms.run/（docker镜像加速域名）
+
+
+##	Docker安装allinone
+
+一键部署allinone代码：
+
+bash -c "$(curl -sL https://yang-1989.eu.org/pixman.sh)"
+
+或：
+
+# 运行容器
+docker run -d \
+   --restart unless-stopped \
+   --name allinone \
+   --net=host \
+   --privileged=true \
+   -p 35455:35455 \
+   docker.1ms.run/youshandefeiyang/allinone
+
+
+
+◆ 接口订阅地址：
+■ TV 集合 : http://192.168.0.5:35455/tv.m3u
+■ 咪咕 TV : http://192.168.0.5:35455/migu.m3u
+■ 咪咕体育 : http://192.168.0.5:35455/miguevent.m3u?userid=&usertoken= （需会员）
+■ TPTV : http://192.168.0.5:35455/tptv.m3u
+■ YY轮播 : http://192.168.0.5:35455/yylunbo.m3u
+■ BiliBili生活 : http://192.168.0.5:35455/bililive.m3u
+■ 虎牙一起看 : http://192.168.0.5:35455/huyayqk.m3u
+■ 斗鱼一起看 : http://192.168.0.5:35455/douyuyqk.m3u
+---------------------------------------------------------
+■ 代理地址：
+■ BiliBili 代理 : http://192.168.0.5:35455/bilibili/{VIDEO_ID}
+■ 虎牙 代理 : http://192.168.0.5:35455/huya/{11342412}
+■ 斗鱼 代理 : http://192.168.0.5:35455/douyu/{VIDEO_ID}
+■ YY 代理 : http://192.168.0.5:35455/yy/{VIDEO_ID}
+■ 抖音 代理 : http://192.168.0.5:35455/douyin/{VIDEO_ID}
+■ YouTube 代理 : http://192.168.0.5:35455/youtube/{VIDEO_ID}
+---------------------------------------------------------
+---   allinone 详细使用说明: https://reurl.cc/yDMKEq   ---
+---  Pixman.sh 脚本日志: https://pixman.io/topics/142  ---
+---------------------------------------------------------
+按 回车键 返回 主菜单 ...
+
+订阅地址里其他的可以看看（电视的没显示）
+
+电视直播地址：http://设备IP:35455/tv.m3u
+
+
+
+
+
+
+//	进阶1：配置 watchtower 每天早上五点自动监听allinone直播源更新
+
+# 配置 watchtower 每天早上五点自动监听 allinone 镜像更新
+docker run -d \
+   --name watchtower \
+   --restart unless-stopped \
+   -v /var/run/docker.sock:/var/run/docker.sock \
+   docker.1ms.run/containrrr/watchtower \
+   allinone -c --schedule "0 0 5 * * *"
+
+
+
+//	进阶2：直播源重新分组并转换TXT格式
+
+# 运行容器
+docker run -d \
+   --restart=always \
+   --name allinone_format \
+   -p 35456:35456 \
+   docker.1ms.run/yuexuangu/allinone_format:latest
+
+
+
+##	格式：http://【群晖IP】:35456/tv.php?h=【allinoneIP】&p=【allinonePort】&m=1&t=0
+
+##	http://192.168.0.5:35456/tv.php?h=192.168.0.5&p=35455&m=1&t=0
+
+##	http://192.168.191.188:35456/tv.php?h=192.168.0.5&p=35455&m=1&t=0
+
+##	http://192.168.0.5:35456/tv.php?h=192.168.0.5&p=35455&m=1&t=1
+
+
+
+
+
+
+
+
+
+//	其他问题
+
+//	解决 4K 和 8K 源的声音问题
+//	将以下代码保持为“docker-compose.yml”文件
+
+  services:
+  av3a-assistant:
+    image: youshandefeiyang/av3a-assistant:amd64
+    container_name: av3a-assistant
+    privileged: true
+    restart: unless-stopped
+    ports:
+      - "35442:35442"
+
+  allinone:
+    image: youshandefeiyang/allinone
+    container_name: allinone
+    privileged: true
+    restart: unless-stopped
+    ports:
+      - "35455:35455"
+
+
+# 	新建文件夹 allinone
+
+mkdir -p /volume1/docker/allinone
+
+# 进入 allinone 目录
+cd /volume1/docker/allinone
+
+# 将 docker-compose.yml 放入当前目录
+
+# 一键启动
+docker-compose up -d
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
