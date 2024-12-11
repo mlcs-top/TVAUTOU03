@@ -5,7 +5,7 @@ allinone 是斗鱼，虎牙，抖音等直播平台的直播源代理程序，�
 #   //   Docker/DockerHub 国内镜像源/加速列表[整理分享](https://www.xuxlc.cn/article/details-40.html)
 
 
-##  //例：docker镜像加速域名(docker.1ms.run/)
+  //例：docker镜像加速域名(docker.1ms.run/)
 
 
 #  //    Docker安装allinone
@@ -22,7 +22,7 @@ docker run -d \
    
 
 
-#  //	进阶1:配置 watchtower 每天早上五点自动监听 allinone 镜像更新
+#  //	进阶1:配置 watchtower 每天早上五点自动监听allinone直播源更新
 
   
 docker run -d \
@@ -34,7 +34,7 @@ docker run -d \
 
 
 
-#  //	进阶2：直播源分组
+#  //	进阶2：直播源重新分组并转换TXT格式
 
 
 docker run -d \
