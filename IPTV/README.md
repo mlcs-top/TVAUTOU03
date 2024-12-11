@@ -32,10 +32,10 @@
 
 ###    3、Ftindy精选直播源[Github](https://github.com/Ftindy/IPTV-URL)
 
-###    [虎牙一起看](https://ghp.ci/raw.githubusercontent.com/Ftindy/IPTV-URL/refs/heads/main/huyayqk.m3u)   [备用](https://live.freetv.top/huyayqk.m3u) 
+###    [虎牙一起看](https://ghp.ci/raw.githubusercontent.com/Ftindy/IPTV-URL/refs/heads/main/huyayqk.m3u)   [M3U下载](https://live.freetv.top/huyayqk.m3u) 
 
-###    [斗鱼一起看](https://ghp.ci/raw.githubusercontent.com/Ftindy/IPTV-URL/refs/heads/main/douyuyqk.m3u)   [备用](https://live.freetv.top/douyuyqk.m3u)
+###    [斗鱼一起看](https://ghp.ci/raw.githubusercontent.com/Ftindy/IPTV-URL/refs/heads/main/douyuyqk.m3u)   [M3U下载](https://live.freetv.top/douyuyqk.m3u)
 
 ###    [YY轮播](https://ghp.ci/raw.githubusercontent.com/Ftindy/IPTV-URL/refs/heads/main/yylunbo.m3u)    
 
-###    [BiliBili生活](https://www.goodiptv.club/bililive.m3u)
+###    M3U下载    [BiliBili](https://www.goodiptv.club/bililive.m3u)
