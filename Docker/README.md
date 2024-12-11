@@ -10,9 +10,9 @@ allinone 是斗鱼，虎牙，抖音等直播平台的直播源代理程序，�
 
 #      Docker安装allinone
 
-# 运行容器
 
 [
+
 docker run -d \
    --restart unless-stopped \
    --name allinone \
