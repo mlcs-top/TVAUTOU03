@@ -1,30 +1,23 @@
 #   什么是 youshandefeiyang/allinone ?
 
-      allinone 是斗鱼，虎牙，抖音等直播平台的直播源代理程序，可以直接观看多个流畅完美满血 4K 源。除了 docker 外，还提供了主流平台的二进制文件，包括 exe 格式。
+allinone 是斗鱼，虎牙，抖音等直播平台的直播源代理程序，可以直接观看多个流畅完美满血 4K 源。除了 Docker 外，还提供了主流平台的二进制文件，包括 exe 格式。
+
+#      Docker/DockerHub 国内镜像源/加速列表[整理分享](https://www.xuxlc.cn/article/details-40.html)
 
 
+##  //例：docker镜像加速域名(docker.1ms.run/)
 
 
+#      Docker安装allinone
 
-
-
-
-
-#  //	Docker直播源项目
-
-
-#  //	docker.1ms.run/（docker镜像加速域名）
-
-
-##	Docker安装allinone
-# 运行容器
+代码(
 docker run -d \
    --restart unless-stopped \
    --name allinone \
    --net=host \
    --privileged=true \
    -p 35455:35455 \
-   docker.1ms.run/youshandefeiyang/allinone
+   docker.1ms.run/youshandefeiyang/allinone)
 
 
 #  //	进阶1
