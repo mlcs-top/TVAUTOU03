@@ -29,12 +29,12 @@ docker run -d \
 
 |  直播源   | 接口  |
 |  ----  | ----  |
-| TPTV  | http://群晖IP:35455/tptv.m3u |
-| 聚合TV  | http://群晖IP:35455/tv.m3u |
-| YY 轮播  | http://群晖IP:35455/yylunbo.m3u | 
-| 虎牙一起看  | http://群晖IP:35455/huyayqk.m3u |   
-| 斗鱼一起看  | http://群晖IP:35455/douyuyqk.m3u | 
-| BiliBili 生活  | http://群晖IP:35455/bililive.m3u |
+| TPTV  | http://192.168.0.5:35455/tptv.m3u |
+| 聚合TV  | http://192.168.0.5:35455/tv.m3u |
+| YY 轮播  | http://192.168.0.5:35455/yylunbo.m3u | 
+| 虎牙一起看  | http://192.168.0.5:35455/huyayqk.m3u |   
+| 斗鱼一起看  | http://192.168.0.5:35455/douyuyqk.m3u | 
+| BiliBili 生活  | http://192.168.0.5:35455/bililive.m3u |
 
 
 
@@ -65,9 +65,9 @@ docker run -d \
 
 ##	格式：http://【群晖IP】:35456/tv.php?h=【allinoneIP】&p=【allinonePort】&m=1&t=0
 
-##	例：http://192.168.0.5:35456/tv.php?h=192.168.0.5&p=35455&m=1&t=0
-
-##	例：http://192.168.0.5:35456/tv.php?h=192.168.0.5&p=35455&m=1&t=1
+##	例：{M3U格式}(http://192.168.0.5:35456/tv.php?h=192.168.0.5&p=35455&m=1&t=0
+)
+##	例：{TXT格式}(http://192.168.0.5:35456/tv.php?h=192.168.0.5&p=35455&m=1&t=1)
 
 
 
