@@ -1,6 +1,6 @@
 //	以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 //	Github：https://github.com/lxd-520/TvBox123  
-//	订阅地址：https://ghp.ci/raw.githubusercontent.com/lxd-520/TvBox123/refs/heads/main/Docker/1.txt
+//	订阅地址：https://gh-proxy.com/raw.githubusercontent.com/lxd-520/TvBox123/refs/heads/main/Docker/1.txt
 //	
 
 {
@@ -9,7 +9,7 @@
     "logo": "http://php.540734621.xyz/logo/logo.php",
 
 
-//	Allinone自建源，每天早上5点自动更新，仅限局域网内使用，未公开。
+//	Allinone自建源，每天早上5点自动更新，仅限局域网内使用，未公开使用。
 		"lives": [
 		{
     
