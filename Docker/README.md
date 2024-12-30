@@ -22,7 +22,7 @@ docker run -d \
    --net=host \
    --privileged=true \
    -p 35455:35455 \
-   docker.1ms.run/youshandefeiyang/allinone
+   youshandefeiyang/allinone
 
 
 ##   内置接口如下：
@@ -46,7 +46,7 @@ docker run -d \
    --name watchtower \
    --restart unless-stopped \
    -v /var/run/docker.sock:/var/run/docker.sock \
-   docker.1ms.run/containrrr/watchtower \
+   containrrr/watchtower \
    allinone -c --schedule "0 0 5 * * *"
 
 
@@ -58,7 +58,7 @@ docker run -d \
    --restart=always \
    --name allinone_format \
    -p 35456:35456 \
-   docker.1ms.run/yuexuangu/allinone_format:latest
+   yuexuangu/allinone_format:latest
 
 
 
