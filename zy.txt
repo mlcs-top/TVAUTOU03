@@ -15,7 +15,10 @@
     
 		"name": "tvlive",
 		"type": 0,
-		"url": "https://live.zbds.top/tv/iptv6.txt",
+//		"url": "https://live.zbds.top/tv/iptv6.txt",
+		"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/lxd-520/iptv-api/refs/heads/master/output/user_result.txt",
+//		https://gh.xxooo.cf/https://raw.githubusercontent.com/lxd-520/iptv-api/refs/heads/master/output/user_result.txt
+
 		"playerType": 1
 
 		 }
