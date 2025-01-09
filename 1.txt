@@ -2,7 +2,6 @@
 //    加速:https://gh.xxooo.cf/https://raw.githubusercontent.com/lxd-520/TvBox123/refs/heads/main/1.txt     
 //    原接口:https://100km.top/0
 
-
       
 {
 "wallpaper":"https://www.100km.top/api/img.php",
