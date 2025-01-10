@@ -41,3 +41,9 @@
 ####               [M3U源](https://live.zbds.top/tv/iptv4.m3u)                          [M3U备用源](https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u)
 
        
+### 3、自建直播源       [转自Github](https://github.com/lxd-520/iptv-api/tree/master/output)
+  
+
+####               [TXT源](https://gh.xxooo.cf/https://raw.githubusercontent.com/lxd-520/iptv-api/refs/heads/master/output/user_result.txt)      [TXT备用源](https://cdn.jsdelivr.net/gh/lxd-520/iptv-api@master/output/user_result.txt)
+
+####               [M3U源](https://gh.xxooo.cf/https://raw.githubusercontent.com/lxd-520/iptv-api/refs/heads/master/output/user_result.m3u)      [M3U备用源](https://cdn.jsdelivr.net/gh/lxd-520/iptv-api@master/output/user_result.m3u)
