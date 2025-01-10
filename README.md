@@ -42,7 +42,7 @@
 
 
        
-## 3、自建直播源       [转自Github](https://github.com/lxd-520/iptv-api/tree/master/output)
+## 3、IPTV-API直播源（早6点晚18点自动更新）       [转自Github](https://github.com/lxd-520/iptv-api/tree/master/output)
   
 
 ####               [TXT源](https://gh.xxooo.cf/https://raw.githubusercontent.com/lxd-520/iptv-api/refs/heads/master/output/user_result.txt)      [TXT备用源](https://cdn.jsdelivr.net/gh/lxd-520/iptv-api@master/output/user_result.txt)
