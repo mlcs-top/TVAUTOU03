@@ -1,8 +1,13 @@
+//
+//
+//
 //    加速:https://cdn.jsdelivr.net/gh/lxd-520/TvBox123@main/1.txt
 //    加速:https://gh.xxooo.cf/https://raw.githubusercontent.com/lxd-520/TvBox123/refs/heads/main/1.txt     
 //    原接口:https://100km.top/0
+//
+//
+//
 
-      
 {
 "wallpaper":"https://www.100km.top/api/img.php",
 "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06",
@@ -15,7 +20,6 @@
 "sites":[
 {"key":"豆瓣","name":"豆瓣推荐","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"荐片","name":"荐片P2P","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"},
-
 {"key":"文采","name":"文采","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"苹果","name":"苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"厂长","name":"厂长","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzyvideo.com/"},
