@@ -14,9 +14,9 @@
 
 "lives":[
 
-{"name":"IPV4","type":0,"url":"https://live.zbds.top/tv/iptv4.txt","playerType":1,"logo":"https://live.fanmingming.com/tv/{name}.png"},
+{"name":"IPTV-局域网","type":0,"url":"http://192.168.1.10:8008/txt","playerType":1,"logo":"https://live.fanmingming.com/tv/{name}.png"},
 
-{"name":"IPV6","type":0,"url":"https://live.zbds.top/tv/iptv6.txt","playerType":1}
+{"name":"IPTV-互联网","type":0,"url":"https://live.zbds.top/tv/iptv6.txt","playerType":1}
 
 ],
 
