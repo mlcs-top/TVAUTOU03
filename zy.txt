@@ -13,7 +13,7 @@
 
 "lives":[
 
-{"name":"直播1","type":0,"url":"https://gh.xxooo.cf/https://raw.githubusercontent.com/lxd-520/iptv-api/refs/heads/master/output/user_result.txt","playerType":1,"logo":"https://live.fanmingming.com/tv/{name}.png"},
+{"name":"直播1","type":0,"url":"https://cdn.jsdelivr.net/gh/lxd-520/iptv@master/output/user_result.txt","playerType":1,"logo":"https://live.fanmingming.com/tv/{name}.png"},
 
 {"name":"直播2","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u","playerType":1}
 
