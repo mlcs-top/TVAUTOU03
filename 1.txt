@@ -13,7 +13,7 @@
   "sites": [
     {
       "key": "豆",
-      "name": "修复优汐原|点击换源",
+      "name": "修复优汐原|切换源",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
@@ -662,6 +662,8 @@
         "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bd90128b"
       }
     },
+    
+
   ],
 
 
