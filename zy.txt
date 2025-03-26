@@ -1,9 +1,9 @@
-//	以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
-//	Github：https://github.com/lxd-520/TvBox123  
-//	订阅地址:https://cdn.jsdelivr.net/gh/lxd-520/TvBox123@main/zy.txt
-//    	订阅地址:https://gh-proxy.com/raw.githubusercontent.com/lxd-520/TvBox123/refs/heads/main/zy.txt
-//   	订阅地址:https://gh.xxooo.cf/https://raw.githubusercontent.com/lxd-520/TvBox123/refs/heads/main/zy.txt     
-//    	原地址:http://www.饭太硬.com/tv/
+//    以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
+//    Github：https://github.com/lxd-520/TvBox123  
+//    订阅地址:https://cdn.jsdelivr.net/gh/lxd-520/TvBox123@main/zy.txt
+//    订阅地址:https://gh-proxy.com/raw.githubusercontent.com/lxd-520/TvBox123/refs/heads/main/zy.txt
+//    订阅地址:https://gh.xxooo.cf/https://raw.githubusercontent.com/lxd-520/TvBox123/refs/heads/main/zy.txt     
+//    原地址:http://www.饭太硬.com/tv/
 //
 //
 
