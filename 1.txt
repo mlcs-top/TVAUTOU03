@@ -13,7 +13,7 @@
   "sites": [
     {
       "key": "豆",
-      "name": "修复优汐原【神秘的哥哥们】",
+      "name": "修复优汐原|点击换源",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
@@ -662,34 +662,10 @@
         "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bd90128b"
       }
     },
-    {
-      "key": "wx",
-      "name": "公众号：神秘的哥哥们",
-      "type": 3,
-      "api": "csp_XPathGuard",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "fan",
-      "name": "导航 www.饭太硬.com",
-      "type": 3,
-      "api": "csp_XPathGuard",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "cc",
-      "name": "请勿相信视频中广告",
-      "type": 3,
-      "api": "csp_XPathGuard",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0
-    }
   ],
+
+
+
   "logo": "https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
   "lives": [
     {
