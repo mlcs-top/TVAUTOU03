@@ -45,6 +45,6 @@
 ## 3、IPTV-API直播源（早6点晚18点自动更新）       [转自Github](https://github.com/Guovin/iptv-api)
   
 
-####               [TXT源](https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt)      [TXT备用源]([https://cdn.jsdelivr.net/gh/lxd-520/iptv-api@master/output/user_result](https://gh.xxooo.cf/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt)
+####               [TXT源](https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt)      [TXT备用源](https://gh.xxooo.cf/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt)
 
 ####               [M3U源](https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u)      [M3U备用源](https://gh.xxooo.cf/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u)
