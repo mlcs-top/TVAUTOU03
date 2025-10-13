@@ -16,7 +16,7 @@
 	"lives": [{
 		    "name": "①live",
             "type":0,
- 	        "url": "http://175.178.251.183:6689/live.txt",
+ 	        "url": "https://iptv.lxd326.eu.org/txt",
             "ua": "okhttp/3",
             "playerType": 1,
             "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -694,5 +694,6 @@
   ]
 
 }
+
 
 
