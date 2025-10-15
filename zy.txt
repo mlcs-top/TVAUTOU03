@@ -16,7 +16,7 @@
 	"lives": [{
 		    "name": "①live",
             "type":0,
- 	        "url": "https://iptv.lxd326.eu.org/txt",
+ 	        "url": "https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
             "ua": "okhttp/3",
             "playerType": 1,
             "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -25,7 +25,7 @@
   	    	            {
             "name": "②Live",
             "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
+            "url": "https://iptv.lxd326.eu.org/txt",
             "playerType": 2,
             "ua": "okhttp/3",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -694,6 +694,7 @@
   ]
 
 }
+
 
 
 
